@@ -1,0 +1,7 @@
+npm i express mongodb moongose cors dotenv express
+npm i ts-node typescript  --save-dev 
+npm i bcrypt
+npm install --save-dev @types/bcrypt
+npm install --save-dev @types/jsonwebtoken
+npm  i express-validator
+

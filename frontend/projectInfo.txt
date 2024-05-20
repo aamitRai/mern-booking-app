@@ -1,0 +1,5 @@
+npm install -D tailwindcss   postcss  autoprefixer
+ npm install react-router-dom 
+ npm i react-query
+ npm install @types/node --save-dev
+npm install dotenv --save-dev
